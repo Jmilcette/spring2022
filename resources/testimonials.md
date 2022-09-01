@@ -30,6 +30,16 @@ go just that one step deeper.
 ```
 
 ```{epigraph}
+Come to class. While it can be very tempting to do all of your work towards the
+end of the semester because it is a self guided class, do yourself a favor and come 
+into class. You'll feel more inclined to stay at the intended pace, and you won't 
+miss out on valuable information and discussion that is only being dished out in the
+classroom. 
+
+-- sp 22 student
+```
+
+```{epigraph}
 Attend every class. Don't be afraid to raise your hand and ask questions if you don't 
 understand or if you want to find out more about something. Be active and contribute 
 to the cheat sheet and glossary, as this will help you memorize the class material 
